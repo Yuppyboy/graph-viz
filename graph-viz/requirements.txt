@@ -1,9 +1,0 @@
-dash
-pandas
-matplotlib
-gunicorn
-dash-bootstrap-components
-whitenoise
-visdcc
-dash_core_components
-dash_html_components
